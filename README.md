@@ -1,2 +1,2 @@
 
-# https://varadbhogayata.github.io
+# https://itsproyal.github.io
