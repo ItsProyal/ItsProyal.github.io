@@ -710,9 +710,9 @@ small {
 
 
 .card.medium {
-  height: 250px;
+  height: 280px;
 }
 
 .card.medium .card-image {
-  height: 125px;
+  height: 150px;
 }
